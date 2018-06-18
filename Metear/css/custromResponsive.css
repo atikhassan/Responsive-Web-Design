@@ -1,0 +1,44 @@
+@media (max-width: 575px){
+	#sliderID .carousel-caption{
+		top: 25%;
+		left: 5%;
+		right: 5%;
+	}
+	#sliderID .carousel-caption h2{
+		font-size: 28px;
+	
+	}
+	#blog .thum .hover-effect{
+
+		min-height: 300px;
+		
+	}
+
+	#footer {
+		text-align: center !important;
+	}
+	
+	#footer .social {
+		text-align: center !important;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+	#sliderID .carousel-caption{
+		top: 25%;
+		left: 5%;
+		right: 5%;
+	}
+	#sliderID .carousel-caption h2{
+		font-size: 32px;
+	
+	}
+
+	#footer {
+		text-align: center !important;
+	}
+	
+	#footer .social {
+		text-align: center !important;
+	}
+}
